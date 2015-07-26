@@ -46,4 +46,4 @@ cacheSolve <- function(x, ...) {
     return(NA)},finally={x$setMatrix(cache)})
   ## show the result in the console 
   return(cache)
-  }Enter file contents here
+  }
